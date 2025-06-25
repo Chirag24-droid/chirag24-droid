@@ -1,7 +1,7 @@
 e- 👋 Hi, I’m @Chirag24-droid
-- 👀 I’m interested in Game dev
-- 🌱 I’m currently learning C/C++
-- 📫 How to reach me lilballer442@gmail.com
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Python
+- 📫 How to reach me dubeychirag07@gmail.com
 - 😄 Pronouns: he/him
 
 
@@ -32,7 +32,7 @@ e- 👋 Hi, I’m @Chirag24-droid
 ###
 
 <div align="left"> 
-  <a href =lilballer442@gmail.com ><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href = dubeychirag07@gmail.com ><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
  
 
 ###
