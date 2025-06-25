@@ -1,5 +1,5 @@
 e- 👋 Hi, I’m @Chirag24-droid
-- 👀 I’m interested in Cyber Security
+- I’m interested in Cyber Security
 - 🌱 I’m currently learning Python
 - 📫 How to reach me dubeychirag07@gmail.com
 - 😄 Pronouns: he/him
